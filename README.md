@@ -14,4 +14,8 @@ NODEJS (Visit: https://nodejs.org/es/download/)
 
 DiscordJS (Use the command: "npm install discord.js" to install in the project)
 
-<img src="" width="32%"></img>
+<img src="Captura.PNG" width="95%"></img>
+
+### Do you want to change ANITHING?
+
+You Only need to Download in a ZIP or do a Fork.
